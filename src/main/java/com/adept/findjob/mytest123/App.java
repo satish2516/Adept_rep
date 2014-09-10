@@ -1,4 +1,4 @@
-package com.adept.findjob.mytest;
+package com.adept.findjob.mytest123;
 
 /**
  * Hello world!
